@@ -1,5 +1,5 @@
 ---
-# Transit gateway deployment
+# Transit gateway deployment 
 ---
 
 ## Description
